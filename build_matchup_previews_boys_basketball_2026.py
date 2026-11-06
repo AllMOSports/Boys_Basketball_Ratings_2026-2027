@@ -4,8 +4,9 @@ Matchup Previews - nightly data builder for the non-football sports (v2)
  
 ONE FILE FOR EVERY SPORT: the code below is identical in each sport's repo;
 only the SPORT line right under the imports differs ("boys_soccer",
-"girls_volleyball", "fall_softball", "boys_basketball"). Each sport's numbers
-live in SPORTS. (v3 adds boys_basketball, a per-sport postseason window for the
+"girls_volleyball", "fall_softball", "boys_basketball", "girls_basketball").
+Each sport's numbers
+live in SPORTS. (v3 adds boys_basketball and girls_basketball, a per-sport postseason window for the
 head-to-head labels, and runs without the Size-Adjusted file if it's missing --
 safe to copy back into the fall repos.)
  
@@ -40,7 +41,7 @@ PROJECTION - same approach as the football Matchup Predictor, each sport's scale
 margin_prob_scale per sport: the best in-season logistic fit on 2026 games
 between rated teams (soccer 1.8 goals, volleyball 1.1 sets, softball 4.2 runs),
 nudged a little wider because those ratings were fit to the same games.
-Boys basketball starts at 12 points as a placeholder -- refit it on 2026-27
+Boys basketball starts at 12 points and girls at 11 as placeholders -- refit it on 2026-27
 games once a few weeks are in, the same way the fall values were set.
 Win probability ignores ties/draws.
  
@@ -98,6 +99,13 @@ SPORTS = {
         "label": "Boys Basketball", "unit": "point", "units": "points",
         "score_mode": "round", "margin_prob_scale": 12.0,   # placeholder -- refit on 2026-27 games
         "max_score": 120,          # no mercy rule; just a sanity cap on the shown score
+        "unrated_margin_cap": 30,  # MSHSAA running clock starts at a 30-point margin
+        "postseason_mmdd": ("02-20", "03-31"),   # district + state series window
+    },
+    "girls_basketball": {
+        "label": "Girls Basketball", "unit": "point", "units": "points",
+        "score_mode": "round", "margin_prob_scale": 11.0,   # placeholder -- refit on 2026-27 games
+        "max_score": 110,          # no mercy rule; just a sanity cap on the shown score
         "unrated_margin_cap": 30,  # MSHSAA running clock starts at a 30-point margin
         "postseason_mmdd": ("02-20", "03-31"),   # district + state series window
     },
