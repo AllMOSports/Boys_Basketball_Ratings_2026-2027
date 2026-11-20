@@ -1,0 +1,84 @@
+{
+  "last_updated": "November 20, 2026 at 03:05 PM",
+  "league_average": 52.33,
+  "classification": 1,
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Leopold",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": 39.5,
+      "off_rating": 22.33,
+      "off_rank": 1,
+      "def_rating": 17.17,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 2,
+      "school": "Kingsville",
+      "classification": 1,
+      "district": 8,
+      "ovr_rating": 15.0,
+      "off_rating": 6.33,
+      "off_rank": 2,
+      "def_rating": 8.67,
+      "def_rank": 2
+    },
+    {
+      "ovr_rank": 3,
+      "school": "Golden City",
+      "classification": 1,
+      "district": 5,
+      "ovr_rating": 6.5,
+      "off_rating": 2.33,
+      "off_rank": 3,
+      "def_rating": 4.17,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Northeast Vernon County",
+      "classification": 1,
+      "district": 7,
+      "ovr_rating": -6.5,
+      "off_rating": -4.17,
+      "off_rank": 4,
+      "def_rating": -2.33,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Otterville",
+      "classification": 1,
+      "district": 8,
+      "ovr_rating": -15.0,
+      "off_rating": -8.67,
+      "off_rank": 5,
+      "def_rating": -6.33,
+      "def_rank": 5
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Novinger",
+      "classification": 1,
+      "district": 12,
+      "ovr_rating": -24.5,
+      "off_rating": -13.67,
+      "off_rank": 6,
+      "def_rating": -10.83,
+      "def_rank": 6
+    },
+    {
+      "ovr_rank": 7,
+      "school": "Zalma",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -39.5,
+      "off_rating": -17.17,
+      "off_rank": 7,
+      "def_rating": -22.33,
+      "def_rank": 7
+    }
+  ]
+}

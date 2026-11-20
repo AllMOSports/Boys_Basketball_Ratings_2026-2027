@@ -1,0 +1,62 @@
+{
+  "last_updated": "November 20, 2026 at 03:05 PM",
+  "league_average": 52.33,
+  "classification": 3,
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Brookfield",
+      "classification": 3,
+      "district": 16,
+      "ovr_rating": 24.5,
+      "off_rating": 10.83,
+      "off_rank": 1,
+      "def_rating": 13.67,
+      "def_rank": 1
+    },
+    {
+      "ovr_rank": 2,
+      "school": "Greenville",
+      "classification": 3,
+      "district": 2,
+      "ovr_rating": 12.5,
+      "off_rating": 3.83,
+      "off_rank": 3,
+      "def_rating": 8.67,
+      "def_rank": 2
+    },
+    {
+      "ovr_rank": 3,
+      "school": "McKinley Classical Leadership",
+      "classification": 3,
+      "district": 4,
+      "ovr_rating": 1.5,
+      "off_rating": 6.83,
+      "off_rank": 2,
+      "def_rating": -5.33,
+      "def_rank": 4
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Clearwater",
+      "classification": 3,
+      "district": 3,
+      "ovr_rating": -12.5,
+      "off_rating": -8.67,
+      "off_rank": 4,
+      "def_rating": -3.83,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Believe Acad Charter",
+      "classification": 3,
+      "district": 4,
+      "ovr_rating": -16.5,
+      "off_rating": -10.17,
+      "off_rank": 5,
+      "def_rating": -6.33,
+      "def_rank": 5
+    }
+  ]
+}
