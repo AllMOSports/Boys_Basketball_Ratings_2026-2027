@@ -1,6 +1,6 @@
 {
-  "last_updated": "November 20, 2026 at 03:05 PM",
-  "league_average": 52.33,
+  "last_updated": "November 20, 2026 at 03:46 PM",
+  "league_average": 51.9,
   "classification": 1,
   "teams": [
     {
@@ -9,9 +9,9 @@
       "classification": 1,
       "district": 2,
       "ovr_rating": 39.5,
-      "off_rating": 22.33,
+      "off_rating": 22.55,
       "off_rank": 1,
-      "def_rating": 17.17,
+      "def_rating": 16.95,
       "def_rank": 1
     },
     {
@@ -20,9 +20,9 @@
       "classification": 1,
       "district": 8,
       "ovr_rating": 15.0,
-      "off_rating": 6.33,
+      "off_rating": 6.55,
       "off_rank": 2,
-      "def_rating": 8.67,
+      "def_rating": 8.45,
       "def_rank": 2
     },
     {
@@ -31,9 +31,9 @@
       "classification": 1,
       "district": 5,
       "ovr_rating": 6.5,
-      "off_rating": 2.33,
+      "off_rating": 2.55,
       "off_rank": 3,
-      "def_rating": 4.17,
+      "def_rating": 3.95,
       "def_rank": 3
     },
     {
@@ -42,9 +42,9 @@
       "classification": 1,
       "district": 7,
       "ovr_rating": -6.5,
-      "off_rating": -4.17,
+      "off_rating": -3.95,
       "off_rank": 4,
-      "def_rating": -2.33,
+      "def_rating": -2.55,
       "def_rank": 4
     },
     {
@@ -53,9 +53,9 @@
       "classification": 1,
       "district": 8,
       "ovr_rating": -15.0,
-      "off_rating": -8.67,
+      "off_rating": -8.45,
       "off_rank": 5,
-      "def_rating": -6.33,
+      "def_rating": -6.55,
       "def_rank": 5
     },
     {
@@ -64,9 +64,9 @@
       "classification": 1,
       "district": 12,
       "ovr_rating": -24.5,
-      "off_rating": -13.67,
+      "off_rating": -13.45,
       "off_rank": 6,
-      "def_rating": -10.83,
+      "def_rating": -11.05,
       "def_rank": 6
     },
     {
@@ -75,9 +75,9 @@
       "classification": 1,
       "district": 2,
       "ovr_rating": -39.5,
-      "off_rating": -17.17,
+      "off_rating": -16.95,
       "off_rank": 7,
-      "def_rating": -22.33,
+      "def_rating": -22.55,
       "def_rank": 7
     }
   ]

@@ -56,6 +56,17 @@
   },
   {
     "date": "2026-11-19",
+    "team1": "Ritenour",
+    "team1_classified": true,
+    "score1": 51,
+    "team2": "McCluer",
+    "team2_classified": true,
+    "score2": 45,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-19",
     "team1": "Francis Howell",
     "team1_classified": true,
     "score1": 69,
@@ -126,17 +137,6 @@
     "team1_classified": false,
     "score1": null,
     "team2": "Faith Christian Academy",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-19",
-    "team1": "Ritenour",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "McCluer",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -2971,6 +2971,17 @@
   },
   {
     "date": "2026-11-30",
+    "team1": "Clarkton",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Bloomfield",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-30",
     "team1": "Capital City",
     "team1_classified": true,
     "score1": null,
@@ -4192,17 +4203,6 @@
   },
   {
     "date": "2026-12-01",
-    "team1": "St. Elizabeth",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Russellville",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-12-01",
     "team1": "Christian Fellowship Sr.",
     "team1_classified": true,
     "score1": null,
@@ -4251,6 +4251,17 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Southwest (Livingston County) with Breckenridge",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-01",
+    "team1": "Versailles",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "St. Elizabeth",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -45391,17 +45402,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Northeast (Cairo)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2027-02-09",
-    "team1": "Humansville",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Northeast Vernon County",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,

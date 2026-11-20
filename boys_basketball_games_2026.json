@@ -46,6 +46,15 @@
   },
   {
     "date": "2026-11-19",
+    "team1": "Ritenour",
+    "score1": 51,
+    "team2": "McCluer",
+    "score2": 45,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-19",
     "team1": "Francis Howell",
     "score1": 69,
     "team2": "North Point",
@@ -94,15 +103,6 @@
     "team1": "Central (Kansas City)",
     "score1": null,
     "team2": "Crossroads Prep Charter",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-19",
-    "team1": "Ritenour",
-    "score1": null,
-    "team2": "McCluer",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -2125,6 +2125,15 @@
   },
   {
     "date": "2026-11-30",
+    "team1": "Clarkton",
+    "score1": null,
+    "team2": "Bloomfield",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-30",
     "team1": "Capital City",
     "score1": null,
     "team2": "Boonville",
@@ -2917,15 +2926,6 @@
   },
   {
     "date": "2026-12-01",
-    "team1": "St. Elizabeth",
-    "score1": null,
-    "team2": "Russellville",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-12-01",
     "team1": "Christian Fellowship Sr.",
     "score1": null,
     "team2": "Salisbury",
@@ -2956,6 +2956,15 @@
     "team1": "Sweet Springs",
     "score1": null,
     "team2": "Southwest (Livingston County) with Breckenridge",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-01",
+    "team1": "Versailles",
+    "score1": null,
+    "team2": "St. Elizabeth",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -32854,15 +32863,6 @@
     "team1": "Madison",
     "score1": null,
     "team2": "Northeast (Cairo)",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2027-02-09",
-    "team1": "Humansville",
-    "score1": null,
-    "team2": "Northeast Vernon County",
     "score2": null,
     "forfeit": false,
     "overtime": false

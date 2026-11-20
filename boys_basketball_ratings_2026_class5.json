@@ -1,6 +1,6 @@
 {
-  "last_updated": "November 20, 2026 at 03:05 PM",
-  "league_average": 52.33,
+  "last_updated": "November 20, 2026 at 03:46 PM",
+  "league_average": 51.9,
   "classification": 5,
   "teams": [
     {
@@ -9,9 +9,9 @@
       "classification": 5,
       "district": 8,
       "ovr_rating": 20.0,
-      "off_rating": 12.33,
+      "off_rating": 12.55,
       "off_rank": 1,
-      "def_rating": 7.67,
+      "def_rating": 7.45,
       "def_rank": 2
     },
     {
@@ -20,9 +20,9 @@
       "classification": 5,
       "district": 1,
       "ovr_rating": 16.5,
-      "off_rating": 6.33,
+      "off_rating": 6.55,
       "off_rank": 2,
-      "def_rating": 10.17,
+      "def_rating": 9.95,
       "def_rank": 1
     },
     {
@@ -31,21 +31,32 @@
       "classification": 5,
       "district": 3,
       "ovr_rating": -1.5,
-      "off_rating": 5.33,
+      "off_rating": 5.55,
       "off_rank": 3,
-      "def_rating": -6.83,
-      "def_rank": 3
+      "def_rating": -7.05,
+      "def_rank": 4
     },
     {
       "ovr_rank": 4,
+      "school": "McCluer",
+      "classification": 5,
+      "district": 3,
+      "ovr_rating": -3.0,
+      "off_rating": -3.45,
+      "off_rank": 4,
+      "def_rating": 0.45,
+      "def_rank": 3
+    },
+    {
+      "ovr_rank": 5,
       "school": "East (Kansas City)",
       "classification": 5,
       "district": 8,
       "ovr_rating": -20.0,
-      "off_rating": -7.67,
-      "off_rank": 4,
-      "def_rating": -12.33,
-      "def_rank": 4
+      "off_rating": -7.45,
+      "off_rank": 5,
+      "def_rating": -12.55,
+      "def_rank": 5
     }
   ]
 }

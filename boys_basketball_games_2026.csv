@@ -4,13 +4,13 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-11-19,Believe Acad Charter,32,Gateway,65,False,False
 2026-11-19,Otterville,35,Kingsville,65,False,False
 2026-11-19,Zalma,18,Leopold,97,False,False
+2026-11-19,Ritenour,51,McCluer,45,False,False
 2026-11-19,Francis Howell,69,North Point,,False,False
 2026-11-19,Golden City,57,Northeast Vernon County,44,False,False
 2026-11-19,Brookfield,74,Novinger,25,False,False
 2026-11-19,McKinley Classical Leadership,66,Riverview Gardens,63,False,False
 2026-11-19,Maplewood-Richmond Hts.,63,STEAM Academy,29,False,False
 2026-11-19,Central (Kansas City),,Crossroads Prep Charter,,False,False
-2026-11-19,Ritenour,,McCluer,,False,False
 2026-11-20,Columbia Independent,,Atlanta,,False,False
 2026-11-20,Summersville,,Bakersfield,,False,False
 2026-11-20,Kirkwood,,Battle,,False,False
@@ -235,6 +235,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-11-30,Mehlville,,Affton,,False,False
 2026-11-30,Pleasant Hope,,Ash Grove,,False,False
 2026-11-30,Rich Hill,,Billings,,False,False
+2026-11-30,Clarkton,,Bloomfield,,False,False
 2026-11-30,Capital City,,Boonville,,False,False
 2026-11-30,Sheldon,,Chilhowee,,False,False
 2026-11-30,Lutheran St. Charles,,Clayton,,False,False
@@ -323,11 +324,11 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-12-01,Green Ridge,,Prairie Home,,False,False
 2026-12-01,Winnetonka,,Raymore-Peculiar,,False,False
 2026-12-01,Belton,,Raytown South,,False,False
-2026-12-01,St. Elizabeth,,Russellville,,False,False
 2026-12-01,Christian Fellowship Sr.,,Salisbury,,False,False
 2026-12-01,Smithton,,Santa Fe,,False,False
 2026-12-01,Holden,,Sherwood,,False,False
 2026-12-01,Sweet Springs,,Southwest (Livingston County) with Breckenridge,,False,False
+2026-12-01,Versailles,,St. Elizabeth,,False,False
 2026-12-01,Pacific,,St. Francis Borgia,,False,False
 2026-12-01,Metro,,St. Mary's South Side,,False,False
 2026-12-01,Odessa,,St. Paul Lutheran (Concordia),,False,False
@@ -3650,7 +3651,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2027-02-09,Northeast Nodaway,,North Harrison,,False,False
 2027-02-09,Plattsburg,,North Platte,,False,False
 2027-02-09,Madison,,Northeast (Cairo),,False,False
-2027-02-09,Humansville,,Northeast Vernon County,,False,False
 2027-02-09,Hillsboro,,Notre Dame (Cape Girardeau),,False,False
 2027-02-09,Liberty,,Oak Park,,False,False
 2027-02-09,Seckman,,Oakville,,False,False

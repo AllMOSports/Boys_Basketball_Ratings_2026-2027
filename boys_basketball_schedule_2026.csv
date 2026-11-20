@@ -547,6 +547,7 @@ Blair Oaks,2027-02-19,Fulton,,,,,,,,,,False,False
 Blair Oaks,2027-02-23,Rock Bridge,,,,,,,,,,False,False
 Blair Oaks,2027-02-25,Southern Boone,,,,,,,,,,False,False
 Bloomfield,2026-11-20,Greenville,,,,,,,,,,False,False
+Bloomfield,2026-11-30,Clarkton,,,,,,,,,,False,False
 Bloomfield,2026-12-08,Gideon,,,,,,,,,,False,False
 Bloomfield,2026-12-11,Chaffee,,,,,,,,,,False,False
 Bloomfield,2026-12-18,Advance,,,,,,,,,,False,False
@@ -1563,6 +1564,7 @@ Clark County,2027-02-12,South Shelby,,,,,,,,,,False,False
 Clark County,2027-02-16,Putnam County,,,,,,,,,,False,False
 Clark County,2027-02-19,Centralia,,,,,,,,,,False,False
 Clarkton,2026-11-27,Eminence,,,,,,,,,,False,False
+Clarkton,2026-11-30,Bloomfield,,,,,,,,,,False,False
 Clarkton,2026-12-08,Delta (Deering),,,,,,,,,,False,False
 Clarkton,2026-12-10,Delta,,,,,,,,,,False,False
 Clarkton,2027-01-05,Bernie,,,,,,,,,,False,False
@@ -3874,7 +3876,6 @@ Humansville,2027-01-29,Fair Play,,,,,,,,,,False,False
 Humansville,2027-02-01,Sheldon,,,,,,,,,,False,False
 Humansville,2027-02-02,Weaubleau,,,,,,,,,,False,False
 Humansville,2027-02-05,Dadeville,,,,,,,,,,False,False
-Humansville,2027-02-09,Northeast Vernon County,,,,,,,,,,False,False
 Humansville,2027-02-12,Halfway,,,,,,,,,,False,False
 Humansville,2027-02-13,Blair Oaks,,,,,,,,,,False,False
 Humansville,2027-02-16,Wheatland,,,,,,,,,,False,False
@@ -5527,7 +5528,7 @@ McAuley Catholic,2027-02-09,Purdy,,,,,,,,,,False,False
 McAuley Catholic,2027-02-12,New Heights Christian,,,,,,,,,,False,False
 McAuley Catholic,2027-02-16,Southwest (Washburn),,,,,,,,,,False,False
 McAuley Catholic,2027-02-18,Thomas Jefferson Independent Day,,,,,,,,,,False,False
-McCluer,2026-11-19,Ritenour,,,,,,,,,,False,False
+McCluer,2026-11-19,Ritenour,,45,51,L,45.0,51.0,-0.0,0.0,0.0,False,False
 McCluer,2026-11-27,"Quincy Notre Dame(Quincy, IL)",,,,,,,,,,False,False
 McCluer,2026-12-01,Francis Howell Central,,,,,,,,,,False,False
 McCluer,2026-12-07,St. Francis Borgia,,,,,,,,,,False,False
@@ -5540,11 +5541,11 @@ McCluer,2027-01-12,Hazelwood East,,,,,,,,,,False,False
 McCluer,2027-01-21,Normandy Collaborative,,,,,,,,,,False,False
 McCluer,2027-01-28,Affton,,,,,,,,,,False,False
 McCluer,2027-02-01,Priory,,,,,,,,,,False,False
-McCluer,2027-02-04,Riverview Gardens,,,,,,,,,,False,False
+McCluer,2027-02-04,Riverview Gardens,,,,,55.5,57.0,,,,False,False
 McCluer,2027-02-09,Fox,,,,,,,,,,False,False
 McCluer,2027-02-12,Northwest (Cedar Hill),,,,,,,,,,False,False
 McCluer,2027-02-16,Whitfield,,,,,,,,,,False,False
-McCluer,2027-02-18,STEAM Academy,,,,,,,,,,False,False
+McCluer,2027-02-18,STEAM Academy,,,,,54.0,40.0,,,,False,False
 McCluer,2027-02-22,Troy Buchanan,,,,,,,,,,False,False
 McCluer,2027-02-23,McCluer North,,,,,,,,,,False,False
 McCluer North,2026-11-23,Maplewood-Richmond Hts.,,,,,,,,,,False,False
@@ -6535,7 +6536,6 @@ Northeast Vernon County,2027-01-08,Ballard,,,,,,,,,,False,False
 Northeast Vernon County,2027-01-12,Butler,,,,,,,,,,False,False
 Northeast Vernon County,2027-02-02,Chilhowee,,,,,,,,,,False,False
 Northeast Vernon County,2027-02-05,Miami (Amoret),,,,,,,,,,False,False
-Northeast Vernon County,2027-02-09,Humansville,,,,,,,,,,False,False
 Northeast Vernon County,2027-02-11,Bronaugh,,,,,,,,,,False,False
 Northeast Vernon County,2027-02-12,Hermitage,,,,,,,,,,False,False
 Northeast Vernon County,2027-02-16,Sheldon,,,,,,,,,,False,False
@@ -7722,9 +7722,9 @@ Risco,2027-02-02,North Pemiscot,,,,,,,,,,False,False
 Risco,2027-02-04,Richland (Essex),,,,,,,,,,False,False
 Risco,2027-02-16,Hayti,,,,,,,,,,False,False
 Risco,2027-02-19,Senath-Hornersville,,,,,,,,,,False,False
-Ritenour,2026-11-19,McCluer,,,,,,,,,,False,False
+Ritenour,2026-11-19,McCluer,,51,45,W,51.0,45.0,-0.0,0.0,0.0,False,False
 Ritenour,2026-12-03,Pattonville,,,,,,,,,,False,False
-Ritenour,2026-12-17,STEAM Academy,,,,,,,,,,False,False
+Ritenour,2026-12-17,STEAM Academy,,,,,57.0,37.0,,,,False,False
 Ritenour,2027-01-12,Rockwood Summit,,,,,,,,,,False,False
 Ritenour,2027-01-19,Lafayette (Wildwood),,,,,,,,,,False,False
 Ritenour,2027-01-21,Parkway West,,,,,,,,,,False,False
@@ -7754,7 +7754,7 @@ Riverview Gardens,2027-01-20,Soldan International Studies,,,,,,,,,,False,False
 Riverview Gardens,2027-01-21,Gateway,,,,,47.5,65.5,,,,False,False
 Riverview Gardens,2027-01-28,Hazelwood West,,,,,,,,,,False,False
 Riverview Gardens,2027-01-29,St. Pius X (Festus),,,,,,,,,,False,False
-Riverview Gardens,2027-02-04,McCluer,,,,,,,,,,False,False
+Riverview Gardens,2027-02-04,McCluer,,,,,57.0,55.5,,,,False,False
 Riverview Gardens,2027-02-09,Normandy Collaborative,,,,,,,,,,False,False
 Riverview Gardens,2027-02-12,Affton,,,,,,,,,,False,False
 Riverview Gardens,2027-02-16,Parkway North,,,,,,,,,,False,False
@@ -7890,7 +7890,6 @@ Ruskin,2027-02-19,Grandview,,,,,,,,,,False,False
 Ruskin,2027-02-23,Raytown South,,,,,,,,,,False,False
 Ruskin,2027-02-26,Smithville,,,,,,,,,,False,False
 Russellville,2026-11-23,St. Elizabeth,,,,,,,,,,False,False
-Russellville,2026-12-01,St. Elizabeth,,,,,,,,,,False,False
 Russellville,2026-12-08,Skyline,,,,,,,,,,False,False
 Russellville,2026-12-11,Vienna,,,,,,,,,,False,False
 Russellville,2026-12-17,Owensville,,,,,,,,,,False,False
@@ -7927,7 +7926,7 @@ STEAM Academy,2026-11-30,KIPP St. Louis Sr.,,,,,,,,,,False,False
 STEAM Academy,2026-12-07,Northwest (Cedar Hill),,,,,,,,,,False,False
 STEAM Academy,2026-12-10,Gateway,,,,,30.5,64.0,,,,False,False
 STEAM Academy,2026-12-15,Normandy Collaborative,,,,,,,,,,False,False
-STEAM Academy,2026-12-17,Ritenour,,,,,,,,,,False,False
+STEAM Academy,2026-12-17,Ritenour,,,,,37.0,57.0,,,,False,False
 STEAM Academy,2027-01-05,Duchesne,,,,,,,,,,False,False
 STEAM Academy,2027-01-08,Affton,,,,,,,,,,False,False
 STEAM Academy,2027-01-12,Riverview Gardens,,,,,47.5,63.0,,,,False,False
@@ -7940,7 +7939,7 @@ STEAM Academy,2027-02-09,Parkway North,,,,,,,,,,False,False
 STEAM Academy,2027-02-10,Collegiate School of Med-Bio Science with Central Visual and Performing Arts,,,,,,,,,,False,False
 STEAM Academy,2027-02-12,Hazelwood West,,,,,,,,,,False,False
 STEAM Academy,2027-02-16,Hancock,,,,,,,,,,False,False
-STEAM Academy,2027-02-18,McCluer,,,,,,,,,,False,False
+STEAM Academy,2027-02-18,McCluer,,,,,40.0,54.0,,,,False,False
 Sacred Heart,2026-11-24,Kingsville,,,,,,,,,,False,False
 Sacred Heart,2026-12-01,Lafayette County,,,,,,,,,,False,False
 Sacred Heart,2026-12-03,Calvary Lutheran,,,,,,,,,,False,False
@@ -8750,7 +8749,7 @@ St. Dominic,2027-02-24,Orchard Farm,,,,,,,,,,False,False
 St. Elizabeth,2026-11-20,Linn,,,,,,,,,,False,False
 St. Elizabeth,2026-11-21,Higbee,,,,,,,,,,False,False
 St. Elizabeth,2026-11-23,Russellville,,,,,,,,,,False,False
-St. Elizabeth,2026-12-01,Russellville,,,,,,,,,,False,False
+St. Elizabeth,2026-12-01,Versailles,,,,,,,,,,False,False
 St. Elizabeth,2026-12-08,Crocker,,,,,,,,,,False,False
 St. Elizabeth,2026-12-15,Dixon,,,,,,,,,,False,False
 St. Elizabeth,2026-12-18,Eugene,,,,,,,,,,False,False
@@ -9701,6 +9700,7 @@ Verona,2027-02-16,Thomas Jefferson Independent Day,,,,,,,,,,False,False
 Verona,2027-02-18,Golden City,,,,,,,,,,False,False
 Versailles,2026-11-20,Fatima,,,,,,,,,,False,False
 Versailles,2026-11-24,Eldon,,,,,,,,,,False,False
+Versailles,2026-12-01,St. Elizabeth,,,,,,,,,,False,False
 Versailles,2026-12-08,Southern Boone,,,,,,,,,,False,False
 Versailles,2026-12-10,Cole Camp,,,,,,,,,,False,False
 Versailles,2026-12-14,Bolivar,,,,,,,,,,False,False

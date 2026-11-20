@@ -4,6 +4,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-19,Believe Acad Charter,True,32,Gateway,True,65,False,False
 2026-11-19,Otterville,True,35,Kingsville,True,65,False,False
 2026-11-19,Zalma,True,18,Leopold,True,97,False,False
+2026-11-19,Ritenour,True,51,McCluer,True,45,False,False
 2026-11-19,Francis Howell,True,69,North Point,True,,False,False
 2026-11-19,Golden City,True,57,Northeast Vernon County,True,44,False,False
 2026-11-19,Brookfield,True,74,Novinger,True,25,False,False
@@ -11,7 +12,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-19,Maplewood-Richmond Hts.,True,63,STEAM Academy,True,29,False,False
 2026-11-19,Central (Kansas City),True,,Crossroads Prep Charter,True,,False,False
 2026-11-19,"Kansas City East Christian(Kansas City, KS)",False,,Faith Christian Academy,True,,False,False
-2026-11-19,Ritenour,True,,McCluer,True,,False,False
 2026-11-19,Lutie,True,,Missouri Warriors Basketball HSA,False,,False,False
 2026-11-19,Naylor,True,,"Piggott(Piggott, AR)",False,,False,False
 2026-11-20,Columbia Independent,True,,Atlanta,True,,False,False
@@ -269,6 +269,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-30,Mehlville,True,,Affton,True,,False,False
 2026-11-30,Pleasant Hope,True,,Ash Grove,True,,False,False
 2026-11-30,Rich Hill,True,,Billings,True,,False,False
+2026-11-30,Clarkton,True,,Bloomfield,True,,False,False
 2026-11-30,Capital City,True,,Boonville,True,,False,False
 2026-11-30,Sheldon,True,,Chilhowee,True,,False,False
 2026-11-30,Lutheran St. Charles,True,,Clayton,True,,False,False
@@ -380,12 +381,12 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-12-01,Belton,True,,Raytown South,True,,False,False
 2026-12-01,Missouri Warriors Basketball HSA,False,,Reeds Spring,True,,False,False
 2026-12-01,Joplin,True,,"Rogers-Heritage(Rogers, AR)",False,,False,False
-2026-12-01,St. Elizabeth,True,,Russellville,True,,False,False
 2026-12-01,Christian Fellowship Sr.,True,,Salisbury,True,,False,False
 2026-12-01,Smithton,True,,Santa Fe,True,,False,False
 2026-12-01,Holden,True,,Sherwood,True,,False,False
 2026-12-01,"Legacy Preparatory(Shawnee Mission, KS)",False,,Southeast,True,,False,False
 2026-12-01,Sweet Springs,True,,Southwest (Livingston County) with Breckenridge,True,,False,False
+2026-12-01,Versailles,True,,St. Elizabeth,True,,False,False
 2026-12-01,Pacific,True,,St. Francis Borgia,True,,False,False
 2026-12-01,Metro,True,,St. Mary's South Side,True,,False,False
 2026-12-01,Odessa,True,,St. Paul Lutheran (Concordia),True,,False,False
@@ -4126,7 +4127,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2027-02-09,Northeast Nodaway,True,,North Harrison,True,,False,False
 2027-02-09,Plattsburg,True,,North Platte,True,,False,False
 2027-02-09,Madison,True,,Northeast (Cairo),True,,False,False
-2027-02-09,Humansville,True,,Northeast Vernon County,True,,False,False
 2027-02-09,"Maranatha Christian(Shawnee, KS)",False,,Northland Christian,True,,False,False
 2027-02-09,Hillsboro,True,,Notre Dame (Cape Girardeau),True,,False,False
 2027-02-09,Liberty,True,,Oak Park,True,,False,False
