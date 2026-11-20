@@ -8,6 +8,7 @@ One script for every sport. Pick the sport with --sport:
     python build_per_capita_2026.py --sport girls_volleyball
     python build_per_capita_2026.py --sport football
     python build_per_capita_2026.py --sport boys_basketball
+    python build_per_capita_2026.py --sport girls_basketball
 
 Method: Rating Over Expected
   1. Fit an expected-rating curve on this season's PUBLIC teams:
@@ -57,7 +58,7 @@ import numpy as np
 #   football 2.17 -> 2.2 | boys soccer 2.98 -> 3.0 | girls volleyball 2.98 -> 3.0
 #   fall softball 0.88 -> 1.0: privates land above the curve only about half
 #   the time in softball, so no adjustment.
-# boys basketball: "auto" until the ratings settle (early-season ratings are
+# boys + girls basketball: "auto" until the ratings settle (early-season ratings are
 #   noisy). Once January's runs print a steady "measured from current data"
 #   number, round it to one decimal and put it here, same as the fall sports.
 SPORTS = {
@@ -87,8 +88,14 @@ SPORTS = {
     },
     "boys_basketball": {
         "label": "Boys Basketball",
-        "repo": "Boys_Basketball_Ratings_2026",
+        "repo": "Boys_Basketball_Ratings_2026-2027",
         "ratings_file": "boys_basketball_ratings_2026.json",
+        "private_factor": "auto",
+    },
+    "girls_basketball": {
+        "label": "Girls Basketball",
+        "repo": "Girls_Basketball_Ratings_2026-2027",   # confirm repo name
+        "ratings_file": "girls_basketball_ratings_2026.json",
         "private_factor": "auto",
     },
 }
