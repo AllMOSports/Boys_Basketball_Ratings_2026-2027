@@ -145,6 +145,15 @@
   },
   {
     "date": "2026-11-20",
+    "team1": "Eldon",
+    "score1": 59,
+    "team2": "Buffalo",
+    "score2": 47,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
     "team1": "Miller Career Academy",
     "score1": 66,
     "team2": "Cardinal Ritter",
@@ -415,6 +424,15 @@
   },
   {
     "date": "2026-11-20",
+    "team1": "Rolla",
+    "score1": 47,
+    "team2": "Owensville",
+    "score2": 53,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
     "team1": "Marion County",
     "score1": 37,
     "team2": "Paris",
@@ -433,10 +451,28 @@
   },
   {
     "date": "2026-11-20",
+    "team1": "Prairie Home",
+    "score1": 25,
+    "team2": "Slater",
+    "score2": 69,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
     "team1": "Linn",
     "score1": 31,
     "team2": "St. Elizabeth",
     "score2": 61,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
+    "team1": "Central (Springfield)",
+    "score1": 48,
+    "team2": "St. James",
+    "score2": 51,
     "forfeit": false,
     "overtime": false
   },
@@ -460,10 +496,28 @@
   },
   {
     "date": "2026-11-20",
+    "team1": "Crossroads Prep Charter",
+    "score1": 26,
+    "team2": "University Academy Charter",
+    "score2": 76,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
     "team1": "Winfield",
     "score1": 64,
     "team2": "Veritas Christian Academy",
     "score2": 51,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
+    "team1": "Lincoln",
+    "score1": 49,
+    "team2": "Warsaw",
+    "score2": 20,
     "forfeit": false,
     "overtime": false
   },
@@ -482,15 +536,6 @@
     "score1": 112,
     "team2": "Zalma",
     "score2": 63,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-20",
-    "team1": "Eldon",
-    "score1": null,
-    "team2": "Buffalo",
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -526,15 +571,6 @@
     "team1": "Santa Fe",
     "score1": null,
     "team2": "Otterville",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-20",
-    "team1": "Rolla",
-    "score1": null,
-    "team2": "Owensville",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -577,36 +613,9 @@
   },
   {
     "date": "2026-11-20",
-    "team1": "Prairie Home",
-    "score1": null,
-    "team2": "Slater",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-20",
     "team1": "Believe Acad Charter",
     "score1": null,
     "team2": "Soldan International Studies",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-20",
-    "team1": "Crossroads Prep Charter",
-    "score1": null,
-    "team2": "University Academy Charter",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-20",
-    "team1": "Lincoln",
-    "score1": null,
-    "team2": "Warsaw",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -658,6 +667,24 @@
   },
   {
     "date": "2026-11-21",
+    "team1": "Verona",
+    "score1": 23,
+    "team2": "Fordland",
+    "score2": 68,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-21",
+    "team1": "St. Mary's South Side",
+    "score1": 75,
+    "team2": "Hazelwood Central",
+    "score2": 81,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-21",
     "team1": "St. Elizabeth",
     "score1": 40,
     "team2": "Higbee",
@@ -676,6 +703,24 @@
   },
   {
     "date": "2026-11-21",
+    "team1": "North Callaway",
+    "score1": 62,
+    "team2": "Mexico",
+    "score2": 69,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-21",
+    "team1": "Laquey",
+    "score1": 32,
+    "team2": "New Franklin",
+    "score2": 70,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-21",
     "team1": "Christian Fellowship Sr.",
     "score1": 56,
     "team2": "Van-Far",
@@ -685,45 +730,9 @@
   },
   {
     "date": "2026-11-21",
-    "team1": "Verona",
-    "score1": null,
-    "team2": "Fordland",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-21",
-    "team1": "St. Mary's South Side",
-    "score1": null,
-    "team2": "Hazelwood Central",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-21",
-    "team1": "North Callaway",
-    "score1": null,
-    "team2": "Mexico",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-21",
     "team1": "Smith-Cotton",
     "score1": null,
     "team2": "Moberly",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-21",
-    "team1": "Laquey",
-    "score1": null,
-    "team2": "New Franklin",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -1012,6 +1021,15 @@
     "team1": "Cainsville with Ridgeway",
     "score1": null,
     "team2": "Princeton",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-23",
+    "team1": "Fordland",
+    "score1": null,
+    "team2": "Purdy",
     "score2": null,
     "forfeit": false,
     "overtime": false

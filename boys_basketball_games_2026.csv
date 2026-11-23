@@ -15,6 +15,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-11-20,Kirkwood,73,Battle,83,False,False
 2026-11-20,Bismarck,52,Bourbon,71,False,False
 2026-11-20,Westran,80,Brookfield,49,False,False
+2026-11-20,Eldon,59,Buffalo,47,False,False
 2026-11-20,Miller Career Academy,66,Cardinal Ritter,72,False,False
 2026-11-20,Hermann,52,Chamois,37,False,False
 2026-11-20,La Monte,26,Chilhowee,67,False,False
@@ -45,41 +46,41 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-11-20,Halfway,37,Niangua,45,False,False
 2026-11-20,DeSoto,37,Northwest (Cedar Hill),34,False,False
 2026-11-20,Northwestern (Mendon) with Bosworth,63,Orrick,59,False,False
+2026-11-20,Rolla,47,Owensville,53,False,False
 2026-11-20,Marion County,37,Paris,,False,False
 2026-11-20,New Haven,50,Silex,57,False,False
+2026-11-20,Prairie Home,25,Slater,69,False,False
 2026-11-20,Linn,31,St. Elizabeth,61,False,False
+2026-11-20,Central (Springfield),48,St. James,51,False,False
 2026-11-20,Van Horn,43,St. Pius X (Kansas City),49,False,False
 2026-11-20,Macks Creek,66,Stover,47,False,False
+2026-11-20,Crossroads Prep Charter,26,University Academy Charter,76,False,False
 2026-11-20,Winfield,64,Veritas Christian Academy,51,False,False
+2026-11-20,Lincoln,49,Warsaw,20,False,False
 2026-11-20,Hume,30,Wheatland,85,False,False
 2026-11-20,Delta,112,Zalma,63,False,False
-2026-11-20,Eldon,,Buffalo,,False,False
 2026-11-20,Versailles,,Fatima,,False,False
 2026-11-20,John Burroughs,,Ladue Horton Watkins,,False,False
 2026-11-20,Ballard,,Osceola,,False,False
 2026-11-20,Santa Fe,,Otterville,,False,False
-2026-11-20,Rolla,,Owensville,,False,False
 2026-11-20,Clearwater,,Puxico,,False,False
 2026-11-20,Vienna,,Richland,,False,False
 2026-11-20,Humansville,,School of the Ozarks,,False,False
 2026-11-20,Midway,,Sherwood,,False,False
-2026-11-20,Prairie Home,,Slater,,False,False
 2026-11-20,Believe Acad Charter,,Soldan International Studies,,False,False
-2026-11-20,Crossroads Prep Charter,,University Academy Charter,,False,False
-2026-11-20,Lincoln,,Warsaw,,False,False
 2026-11-20,Herculaneum,,Windsor (Imperial),,False,False
 2026-11-21,Hurley,23,Blue Eye,74,False,False
 2026-11-21,Mansfield,71,Bunker,44,False,False
 2026-11-21,Montgomery County,38,Carrollton,64,False,False
 2026-11-21,Linn,48,Community,36,False,False
+2026-11-21,Verona,23,Fordland,68,False,False
+2026-11-21,St. Mary's South Side,75,Hazelwood Central,81,False,False
 2026-11-21,St. Elizabeth,40,Higbee,48,False,False
 2026-11-21,Wheaton,65,Liberal,76,False,False
+2026-11-21,North Callaway,62,Mexico,69,False,False
+2026-11-21,Laquey,32,New Franklin,70,False,False
 2026-11-21,Christian Fellowship Sr.,56,Van-Far,25,False,False
-2026-11-21,Verona,,Fordland,,False,False
-2026-11-21,St. Mary's South Side,,Hazelwood Central,,False,False
-2026-11-21,North Callaway,,Mexico,,False,False
 2026-11-21,Smith-Cotton,,Moberly,,False,False
-2026-11-21,Laquey,,New Franklin,,False,False
 2026-11-21,Pleasant Hope,,Purdy,,False,False
 2026-11-21,Highland,,South Callaway,,False,False
 2026-11-23,Jennings,,Alton,,False,False
@@ -112,6 +113,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-11-23,Lutheran (Kansas City),,Orrick,,False,False
 2026-11-23,Schuyler County,,Palmyra,,False,False
 2026-11-23,Cainsville with Ridgeway,,Princeton,,False,False
+2026-11-23,Fordland,,Purdy,,False,False
 2026-11-23,Northeast Vernon County,,Rich Hill,,False,False
 2026-11-23,St. Elizabeth,,Russellville,,False,False
 2026-11-23,Marquand-Zion,,Saxony Lutheran,,False,False
