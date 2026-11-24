@@ -1,84 +1,20 @@
 {
-  "last_updated": "November 20, 2026 at 03:46 PM",
-  "league_average": 51.9,
+  "last_updated": "November 24, 2026 at 08:50 AM",
+  "league_average": 54.3,
   "classification": 1,
   "teams": [
     {
       "ovr_rank": 1,
-      "school": "Leopold",
+      "school": "St. Elizabeth",
       "classification": 1,
-      "district": 2,
-      "ovr_rating": 39.5,
-      "off_rating": 22.55,
+      "district": 9,
+      "ovr_rating": 2.01,
+      "off_rating": 1.28,
       "off_rank": 1,
-      "def_rating": 16.95,
-      "def_rank": 1
-    },
-    {
-      "ovr_rank": 2,
-      "school": "Kingsville",
-      "classification": 1,
-      "district": 8,
-      "ovr_rating": 15.0,
-      "off_rating": 6.55,
-      "off_rank": 2,
-      "def_rating": 8.45,
-      "def_rank": 2
-    },
-    {
-      "ovr_rank": 3,
-      "school": "Golden City",
-      "classification": 1,
-      "district": 5,
-      "ovr_rating": 6.5,
-      "off_rating": 2.55,
-      "off_rank": 3,
-      "def_rating": 3.95,
-      "def_rank": 3
-    },
-    {
-      "ovr_rank": 4,
-      "school": "Northeast Vernon County",
-      "classification": 1,
-      "district": 7,
-      "ovr_rating": -6.5,
-      "off_rating": -3.95,
-      "off_rank": 4,
-      "def_rating": -2.55,
-      "def_rank": 4
-    },
-    {
-      "ovr_rank": 5,
-      "school": "Otterville",
-      "classification": 1,
-      "district": 8,
-      "ovr_rating": -15.0,
-      "off_rating": -8.45,
-      "off_rank": 5,
-      "def_rating": -6.55,
-      "def_rank": 5
-    },
-    {
-      "ovr_rank": 6,
-      "school": "Novinger",
-      "classification": 1,
-      "district": 12,
-      "ovr_rating": -24.5,
-      "off_rating": -13.45,
-      "off_rank": 6,
-      "def_rating": -11.05,
-      "def_rank": 6
-    },
-    {
-      "ovr_rank": 7,
-      "school": "Zalma",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -39.5,
-      "off_rating": -16.95,
-      "off_rank": 7,
-      "def_rating": -22.55,
-      "def_rank": 7
+      "def_rating": 0.73,
+      "def_rank": 1,
+      "games": 3,
+      "current_weight": 0.375
     }
   ]
 }
