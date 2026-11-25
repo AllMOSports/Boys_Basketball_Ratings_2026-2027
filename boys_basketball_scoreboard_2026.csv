@@ -19,7 +19,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-11-20,Hermann,52,Chamois,37
 2026-11-20,La Monte,26,Chilhowee,67
 2026-11-20,Tuscumbia,46,Climax Springs,58
-2026-11-20,Mark Twain,21,Clopton,74
+2026-11-20,Mark Twain,21,Clopton,76
 2026-11-20,Salem,68,Cuba,34
 2026-11-20,Sheldon,21,Dadeville,70
 2026-11-20,Norwood,68,Dora,45
@@ -28,6 +28,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-11-20,Exeter,30,Galena,72
 2026-11-20,Crest Ridge,47,Green Ridge,51
 2026-11-20,Miami (Amoret),60,Greenfield,76
+2026-11-20,Bloomfield,50,Greenville,55
 2026-11-20,Willow Springs,58,Greenwood,64
 2026-11-20,Northland Christian,79,Guadalupe Centers Charter,36
 2026-11-20,Sturgeon,56,Harrisburg,72
@@ -69,18 +70,27 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-11-21,St. Elizabeth,40,Higbee,48
 2026-11-21,Wheaton,65,Liberal,76
 2026-11-21,North Callaway,62,Mexico,69
+2026-11-21,Smith-Cotton,81,Moberly,52
 2026-11-21,Laquey,32,New Franklin,70
 2026-11-21,Pleasant Hope,33,Purdy,60
+2026-11-21,Highland,56,South Callaway,53
 2026-11-21,Christian Fellowship Sr.,56,Van-Far,25
+2026-11-23,Paris,49,Atlanta,70
 2026-11-23,Madison,20,Bevier,60
 2026-11-23,Liberal,40,Blue Eye,71
+2026-11-23,Plato,39,Bradleyville,75
 2026-11-23,Southwest (Livingston County) with Breckenridge,19,Braymer,61
 2026-11-23,West County,73,Ellington,48
-2026-11-23,Valley Park,54,Elsberry,40
+2026-11-23,Valley Park,55,Elsberry,40
+2026-11-23,Pilot Grove,43,Fayette,63
+2026-11-23,Brunswick,65,Glasgow,46
 2026-11-23,Greenfield,62,Golden City,73
 2026-11-23,Gateway,35,Hazelwood West,78
 2026-11-23,Wheaton,66,Hurley,32
+2026-11-23,Northeast (Cairo),68,La Plata,47
 2026-11-23,Summersville,38,Laquey,60
+2026-11-23,South Iron,83,Lesterville,8
+2026-11-23,Lathrop,42,Lexington,61
 2026-11-23,Stoutland,60,Macks Creek,73
 2026-11-23,Excelsior Springs,51,Marshall,55
 2026-11-23,Maplewood-Richmond Hts.,24,McCluer North,98
@@ -88,10 +98,73 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-11-23,North Platte,65,Northland Christian,47
 2026-11-23,Keytesville,20,Northwestern (Mendon) with Bosworth,74
 2026-11-23,Lutheran (Kansas City),56,Orrick,51
+2026-11-23,Schuyler County,45,Palmyra,78
+2026-11-23,Verona,55,Pleasant Hope,47
 2026-11-23,Fordland,70,Purdy,63
 2026-11-23,St. Elizabeth,65,Russellville,68
 2026-11-23,Marquand-Zion,37,Saxony Lutheran,66
 2026-11-23,Leeton,56,Smithton,66
 2026-11-23,Francis Howell North,47,STEAM Academy,28
 2026-11-23,Smithville,71,Truman,48
+2026-11-23,Fatima,63,Vienna,59
 2026-11-23,Climax Springs,46,Wheatland,38
+2026-11-24,Crest Ridge,81,Adrian,37
+2026-11-24,Alton,40,Bakersfield,48
+2026-11-24,New Haven,38,Belle,45
+2026-11-24,Norwood,65,Billings,68
+2026-11-24,Ellington,67,Bismarck,55
+2026-11-24,Gainesville,39,Cabool,51
+2026-11-24,Benton,66,Central (St. Joseph),33
+2026-11-24,Eugene,45,Christian Fellowship Sr.,53
+2026-11-24,Wellsville-Middletown,35,Community,39
+2026-11-24,Plato,47,Conway,70
+2026-11-24,Newburg,55,Cuba,53
+2026-11-24,Steelville,45,Dixon,67
+2026-11-24,Diamond,27,East Newton,59
+2026-11-24,Vianney,80,Francis Howell Central,68
+2026-11-24,Pacific,49,Ft. Zumwalt West,61
+2026-11-24,Walnut Grove,41,Greenfield,67
+2026-11-24,Clopton,52,Herculaneum,55
+2026-11-24,Wright City,29,Hermann,56
+2026-11-24,Montrose,33,Hermitage,87
+2026-11-24,Southwest (Livingston County) with Breckenridge,15,Higbee,70
+2026-11-24,Kirksville,58,Highland,51
+2026-11-24,Concordia,44,Holden,70
+2026-11-24,Tuscumbia,53,Iberia,84
+2026-11-24,South Harrison,58,Jefferson (Conception) with South Nodaway,69
+2026-11-24,Osage,57,Jefferson City,84
+2026-11-24,Sacred Heart,70,Kingsville,54
+2026-11-24,Santa Fe,48,La Monte,38
+2026-11-24,Seckman,71,Lafayette (Wildwood),80
+2026-11-24,Sturgeon,99,Madison,24
+2026-11-24,Bradleyville,50,Mansfield,80
+2026-11-24,Winston with North Daviess,30,Maysville,80
+2026-11-24,Ewing Marion Kauffman,64,Mid-Buchanan,62
+2026-11-24,Brashear,39,Milan,37
+2026-11-24,McAuley Catholic,44,Monett,72
+2026-11-24,Moberly,81,Monroe City,61
+2026-11-24,Chilhowee,18,New Franklin,85
+2026-11-24,North Nodaway,20,North Harrison,88
+2026-11-24,Albany,57,Northeast Nodaway,35
+2026-11-24,Weaubleau,77,Osceola,50
+2026-11-24,Smithton,57,Prairie Home,48
+2026-11-24,Gilman City with Tri-County,24,Princeton,96
+2026-11-24,Lutheran South,70,Rockwood Summit,62
+2026-11-24,Licking,65,Salem,73
+2026-11-24,Thomas Jefferson Independent Day,83,Sarcoxie,66
+2026-11-24,Clark County,59,Scotland County,64
+2026-11-24,Pierce City,58,Southwest (Washburn),33
+2026-11-24,Springfield Catholic,55,Sparta,61
+2026-11-24,DeKalb,42,St. Joseph Christian,87
+2026-11-24,Oak Ridge,80,St. Paul Lutheran (Farmington),63
+2026-11-24,Pembroke Hill,44,St. Pius X (Kansas City),55
+2026-11-24,Meadville,31,Stewartsville with Osborn,84
+2026-11-24,Carrollton,77,Tina-Avalon with Hale,67
+2026-11-24,East Buchanan,72,Trenton,47
+2026-11-24,Washington,56,Union,46
+2026-11-24,Bourbon,50,Valley,80
+2026-11-24,Sweet Springs,43,Warsaw,41
+2026-11-24,Camdenton,60,Waynesville,67
+2026-11-24,Lutheran St. Charles,40,Westminster Christian Academy,77
+2026-11-24,South Shelby,47,Westran,81
+2026-11-24,Dora,49,Winona,56

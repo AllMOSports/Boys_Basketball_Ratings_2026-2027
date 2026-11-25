@@ -1,6 +1,5 @@
 date,problem,team1,score1,team2,score2,both_classified
 2026-11-19,one team's score only,Francis Howell,69,North Point,,True
-2026-11-20,one team's score only,Bloomfield,50,Greenville,,True
 2026-11-20,one team's score only,Marion County,37,Paris,,True
 2026-11-19,no score,Lutie,,Missouri Warriors Basketball HSA,,False
 2026-11-19,no score,Naylor,,"Piggott(Piggott, AR)",,False
@@ -11,7 +10,12 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-11-20,no score,Southland,,"Ridgefield Christian(Jonesboro, AR)",,False
 2026-11-20,no score,Humansville,,School of the Ozarks,,True
 2026-11-20,no score,Believe Acad Charter,,Soldan International Studies,,True
-2026-11-21,no score,Smith-Cotton,,Moberly,,True
-2026-11-21,no score,Highland,,South Callaway,,True
-2026-11-22,no score,Smith-Cotton,,Moberly,,True
-2026-11-22,no score,Highland,,South Callaway,,True
+2026-11-23,no score,Jennings,,Alton,,True
+2026-11-23,no score,Linn,,Belle,,True
+2026-11-23,no score,Bunker,,Bismarck,,True
+2026-11-23,no score,Ritenour,,"Collinsville(Colinsville, IL)",,False
+2026-11-23,no score,Oak Ridge,,Delta,,True
+2026-11-23,no score,Grundy County with Newtown-Harris,,Linn County,,True
+2026-11-23,no score,Macon County with Bucklin,,Marceline,,True
+2026-11-23,no score,Cainsville with Ridgeway,,Princeton,,True
+2026-11-23,no score,Northeast Vernon County,,Rich Hill,,True
