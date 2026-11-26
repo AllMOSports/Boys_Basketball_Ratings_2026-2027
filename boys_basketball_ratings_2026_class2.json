@@ -1,0 +1,85 @@
+{
+  "last_updated": "November 26, 2026 at 08:50 AM",
+  "league_average": 55.05,
+  "classification": 2,
+  "teams": [
+    {
+      "ovr_rank": 1,
+      "school": "Vienna",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -2.04,
+      "off_rating": 5.15,
+      "off_rank": 1,
+      "def_rating": -7.18,
+      "def_rank": 5,
+      "games": 3,
+      "current_weight": 0.375
+    },
+    {
+      "ovr_rank": 2,
+      "school": "New Bloomfield",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -2.94,
+      "off_rating": -5.14,
+      "off_rank": 3,
+      "def_rating": 2.2,
+      "def_rank": 2,
+      "games": 3,
+      "current_weight": 0.375
+    },
+    {
+      "ovr_rank": 3,
+      "school": "Purdy",
+      "classification": 2,
+      "district": 11,
+      "ovr_rating": -3.28,
+      "off_rating": -8.69,
+      "off_rank": 4,
+      "def_rating": 5.42,
+      "def_rank": 1,
+      "games": 3,
+      "current_weight": 0.375
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Wheaton",
+      "classification": 2,
+      "district": 11,
+      "ovr_rating": -7.53,
+      "off_rating": -0.45,
+      "off_rank": 2,
+      "def_rating": -7.08,
+      "def_rank": 4,
+      "games": 3,
+      "current_weight": 0.375
+    },
+    {
+      "ovr_rank": 5,
+      "school": "Summersville",
+      "classification": 2,
+      "district": 2,
+      "ovr_rating": -16.49,
+      "off_rating": -9.7,
+      "off_rank": 5,
+      "def_rating": -6.79,
+      "def_rank": 3,
+      "games": 3,
+      "current_weight": 0.375
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Bismarck",
+      "classification": 2,
+      "district": 4,
+      "ovr_rating": -23.47,
+      "off_rating": -10.33,
+      "off_rank": 6,
+      "def_rating": -13.14,
+      "def_rank": 6,
+      "games": 3,
+      "current_weight": 0.375
+    }
+  ]
+}
