@@ -17,8 +17,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-11-23,no score,Northeast Vernon County,,Rich Hill,,True
 2026-11-24,no score,John Burroughs,,Bishop DuBourg,,True
 2026-11-24,no score,Mexico,,Blair Oaks,,True
-2026-11-24,no score,Macon,,Brookfield,,True
-2026-11-24,no score,Lighthouse Sr. High,,Buffalo,,False
 2026-11-24,no score,West Platte,,Cameron,,True
 2026-11-24,no score,Joplin,,Central (Springfield),,True
 2026-11-24,no score,Winnetonka,,Chillicothe,,True
@@ -32,7 +30,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-11-24,no score,Perryville,,Kingston,,True
 2026-11-24,no score,Canton,,Knox County,,True
 2026-11-24,no score,Holt,,Liberty (Wentzville),,True
-2026-11-24,no score,Marquette,,Lindbergh,,True
 2026-11-24,no score,"Viola(Viola, AR)",,Lutie,,False
 2026-11-24,no score,Paris,,Mark Twain,,True
 2026-11-24,no score,STEAM Academy,,"Maryville Christian(Maryville, IL)",,False
@@ -44,7 +41,13 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-11-24,no score,Parkway West,,Parkway Central,,True
 2026-11-24,no score,Parkway North,,Parkway South,,True
 2026-11-24,no score,New Heights Christian,,RUSH Sr. Home School,,False
-2026-11-24,no score,Northwest (Hughesville),,Slater,,True
 2026-11-24,no score,St. Charles,,St. Charles West,,True
 2026-11-24,no score,Lift for Life Academy Charter,,Washington,,True
 2026-11-24,no score,Mercer,,Worth County,,True
+2026-11-25,no score,Ritenour,,"Alton(Alton, IL)",,False
+2026-11-25,no score,Vashon,,"Arcadia(Arcadia, CA)",,False
+2026-11-25,no score,St. Francis Borgia,,Bayless,,True
+2026-11-25,no score,West County,,Bunker,,True
+2026-11-25,no score,Jennings,,"Collinsville(Collinsville, IL)",,False
+2026-11-25,no score,Sumner,,"Mascoutah(Mascoutah, IL)",,False
+2026-11-25,no score,Confluence Prep Academy Charter,,Owensville,,True

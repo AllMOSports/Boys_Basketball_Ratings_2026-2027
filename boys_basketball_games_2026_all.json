@@ -1596,6 +1596,28 @@
   },
   {
     "date": "2026-11-24",
+    "team1": "Macon",
+    "team1_classified": true,
+    "score1": 58,
+    "team2": "Brookfield",
+    "team2_classified": true,
+    "score2": 45,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-24",
+    "team1": "Lighthouse Sr. High",
+    "team1_classified": false,
+    "score1": 45,
+    "team2": "Buffalo",
+    "team2_classified": true,
+    "score2": 51,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-24",
     "team1": "Gainesville",
     "team1_classified": true,
     "score1": 39,
@@ -1937,6 +1959,17 @@
   },
   {
     "date": "2026-11-24",
+    "team1": "Marquette",
+    "team1_classified": true,
+    "score1": 76,
+    "team2": "Lindbergh",
+    "team2_classified": true,
+    "score2": 54,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-24",
     "team1": "Montgomery County",
     "team1_classified": true,
     "score1": 51,
@@ -2163,6 +2196,17 @@
     "team2": "Scotland County",
     "team2_classified": true,
     "score2": 64,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-24",
+    "team1": "Northwest (Hughesville)",
+    "team1_classified": true,
+    "score1": 64,
+    "team2": "Slater",
+    "team2_classified": true,
+    "score2": 77,
     "forfeit": false,
     "overtime": false
   },
@@ -2399,28 +2443,6 @@
   },
   {
     "date": "2026-11-24",
-    "team1": "Macon",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Brookfield",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-24",
-    "team1": "Lighthouse Sr. High",
-    "team1_classified": false,
-    "score1": null,
-    "team2": "Buffalo",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-24",
     "team1": "West Platte",
     "team1_classified": true,
     "score1": null,
@@ -2564,17 +2586,6 @@
   },
   {
     "date": "2026-11-24",
-    "team1": "Marquette",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lindbergh",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-24",
     "team1": "Viola(Viola, AR)",
     "team1_classified": false,
     "score1": null,
@@ -2696,17 +2707,6 @@
   },
   {
     "date": "2026-11-24",
-    "team1": "Northwest (Hughesville)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Slater",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-24",
     "team1": "St. Charles",
     "team1_classified": true,
     "score1": null,
@@ -2735,6 +2735,17 @@
     "team2": "Worth County",
     "team2_classified": true,
     "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-25",
+    "team1": "Fordland",
+    "team1_classified": true,
+    "score1": 51,
+    "team2": "Blue Eye",
+    "team2_classified": true,
+    "score2": 69,
     "forfeit": false,
     "overtime": false
   },
@@ -2806,17 +2817,6 @@
   },
   {
     "date": "2026-11-25",
-    "team1": "Fordland",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Blue Eye",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-25",
     "team1": "West County",
     "team1_classified": true,
     "score1": null,
@@ -2860,7 +2860,18 @@
     "overtime": false
   },
   {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
+    "team1": "Sumner",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Alton High(Alton, IL)",
+    "team2_classified": false,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-27",
     "team1": "South Iron",
     "team1_classified": true,
     "score1": null,
@@ -2871,23 +2882,12 @@
     "overtime": false
   },
   {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "team1": "West County",
     "team1_classified": true,
     "score1": null,
     "team2": "Bunker",
     "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-27",
-    "team1": "Sumner",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Alton High(Alton, IL)",
-    "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -4313,6 +4313,17 @@
   },
   {
     "date": "2026-12-01",
+    "team1": "University Academy Charter",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Logan-Rogersville",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-01",
     "team1": "Highland",
     "team1_classified": true,
     "score1": null,
@@ -4549,6 +4560,17 @@
     "score1": null,
     "team2": "Oak Park",
     "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-01",
+    "team1": "Summit Christian Academy",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Olathe North(Olathe, KS)",
+    "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -5314,6 +5336,17 @@
   },
   {
     "date": "2026-12-03",
+    "team1": "Summit Christian Academy",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Harrisonville",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-03",
     "team1": "Kirkwood",
     "team1_classified": true,
     "score1": null,
@@ -5473,6 +5506,17 @@
     "score1": null,
     "team2": "Norborne",
     "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-03",
+    "team1": "University Academy Charter",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Olathe North(Olathe North , MO)",
+    "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -5688,17 +5732,6 @@
   },
   {
     "date": "2026-12-04",
-    "team1": "Whitfield",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Brentwood",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-12-04",
     "team1": "Monett",
     "team1_classified": true,
     "score1": null,
@@ -5908,6 +5941,17 @@
   },
   {
     "date": "2026-12-04",
+    "team1": "University Academy Charter",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Harrisonville",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-04",
     "team1": "Lutheran St. Charles",
     "team1_classified": true,
     "score1": null,
@@ -6055,6 +6099,17 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Lindbergh",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-04",
+    "team1": "Summit Christian Academy",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Logan-Rogersville",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,

@@ -1171,6 +1171,15 @@
   },
   {
     "date": "2026-11-24",
+    "team1": "Macon",
+    "score1": 58,
+    "team2": "Brookfield",
+    "score2": 45,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-24",
     "team1": "Gainesville",
     "score1": 39,
     "team2": "Cabool",
@@ -1441,6 +1450,15 @@
   },
   {
     "date": "2026-11-24",
+    "team1": "Marquette",
+    "score1": 76,
+    "team2": "Lindbergh",
+    "score2": 54,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-24",
     "team1": "Montgomery County",
     "score1": 51,
     "team2": "Linn",
@@ -1616,6 +1634,15 @@
     "score1": 59,
     "team2": "Scotland County",
     "score2": 64,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-24",
+    "team1": "Northwest (Hughesville)",
+    "score1": 64,
+    "team2": "Slater",
+    "score2": 77,
     "forfeit": false,
     "overtime": false
   },
@@ -1810,15 +1837,6 @@
   },
   {
     "date": "2026-11-24",
-    "team1": "Macon",
-    "score1": null,
-    "team2": "Brookfield",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-24",
     "team1": "West Platte",
     "score1": null,
     "team2": "Cameron",
@@ -1927,15 +1945,6 @@
   },
   {
     "date": "2026-11-24",
-    "team1": "Marquette",
-    "score1": null,
-    "team2": "Lindbergh",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-24",
     "team1": "Paris",
     "score1": null,
     "team2": "Mark Twain",
@@ -2008,15 +2017,6 @@
   },
   {
     "date": "2026-11-24",
-    "team1": "Northwest (Hughesville)",
-    "score1": null,
-    "team2": "Slater",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-24",
     "team1": "St. Charles",
     "score1": null,
     "team2": "St. Charles West",
@@ -2039,6 +2039,15 @@
     "score1": null,
     "team2": "Worth County",
     "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-25",
+    "team1": "Fordland",
+    "score1": 51,
+    "team2": "Blue Eye",
+    "score2": 69,
     "forfeit": false,
     "overtime": false
   },
@@ -2080,15 +2089,6 @@
   },
   {
     "date": "2026-11-25",
-    "team1": "Fordland",
-    "score1": null,
-    "team2": "Blue Eye",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-25",
     "team1": "West County",
     "score1": null,
     "team2": "Bunker",
@@ -2106,7 +2106,7 @@
     "overtime": false
   },
   {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "team1": "South Iron",
     "score1": null,
     "team2": "Arcadia Valley",
@@ -2115,7 +2115,7 @@
     "overtime": false
   },
   {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "team1": "West County",
     "score1": null,
     "team2": "Bunker",
@@ -3016,6 +3016,15 @@
   },
   {
     "date": "2026-12-01",
+    "team1": "University Academy Charter",
+    "score1": null,
+    "team2": "Logan-Rogersville",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-01",
     "team1": "Highland",
     "score1": null,
     "team2": "Louisiana",
@@ -3718,6 +3727,15 @@
   },
   {
     "date": "2026-12-03",
+    "team1": "Summit Christian Academy",
+    "score1": null,
+    "team2": "Harrisonville",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-03",
     "team1": "Kirkwood",
     "score1": null,
     "team2": "Hazelwood East",
@@ -3952,15 +3970,6 @@
   },
   {
     "date": "2026-12-04",
-    "team1": "Whitfield",
-    "score1": null,
-    "team2": "Brentwood",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-12-04",
     "team1": "Monett",
     "score1": null,
     "team2": "Carthage",
@@ -4105,6 +4114,15 @@
   },
   {
     "date": "2026-12-04",
+    "team1": "University Academy Charter",
+    "score1": null,
+    "team2": "Harrisonville",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-04",
     "team1": "Lutheran St. Charles",
     "score1": null,
     "team2": "Hazelwood Central",
@@ -4189,6 +4207,15 @@
     "team1": "Oakville",
     "score1": null,
     "team2": "Lindbergh",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-04",
+    "team1": "Summit Christian Academy",
+    "score1": null,
+    "team2": "Logan-Rogersville",
     "score2": null,
     "forfeit": false,
     "overtime": false
