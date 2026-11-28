@@ -56,6 +56,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-20,Marion County,True,37,Paris,True,,False,False
 2026-11-20,Clearwater,True,71,Puxico,True,88,False,False
 2026-11-20,Vienna,True,55,Richland,True,57,False,False
+2026-11-20,Humansville,True,53,School of the Ozarks,True,49,False,False
 2026-11-20,Midway,True,51,Sherwood,True,53,False,False
 2026-11-20,New Haven,True,50,Silex,True,57,False,False
 2026-11-20,Prairie Home,True,25,Slater,True,69,False,False
@@ -76,7 +77,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-20,Ballard,True,,Osceola,True,,False,False
 2026-11-20,Santa Fe,True,,Otterville,True,,False,False
 2026-11-20,Southland,True,,"Ridgefield Christian(Jonesboro, AR)",False,,False,False
-2026-11-20,Humansville,True,,School of the Ozarks,True,,False,False
 2026-11-21,Hurley,True,23,Blue Eye,True,74,False,False
 2026-11-21,Mansfield,True,71,Bunker,True,44,False,False
 2026-11-21,Montgomery County,True,38,Carrollton,True,64,False,False
@@ -144,9 +144,11 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-24,New Haven,True,38,Belle,True,45,False,False
 2026-11-24,Norwood,True,65,Billings,True,68,False,False
 2026-11-24,Ellington,True,67,Bismarck,True,55,False,False
+2026-11-24,Mexico,True,58,Blair Oaks,True,61,False,False
 2026-11-24,Macon,True,58,Brookfield,True,45,False,False
 2026-11-24,Lighthouse Sr. High,False,45,Buffalo,True,51,False,False
 2026-11-24,Gainesville,True,39,Cabool,True,51,False,False
+2026-11-24,West Platte,True,55,Cameron,True,63,False,False
 2026-11-24,Hallsville,True,52,Capital City,True,50,False,False
 2026-11-24,Ruskin,True,51,Center,True,61,False,False
 2026-11-24,Benton,True,66,Central (St. Joseph),True,33,False,False
@@ -214,14 +216,13 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-24,Bourbon,True,50,Valley,True,80,False,False
 2026-11-24,New Bloomfield,True,60,Vienna,True,63,False,False
 2026-11-24,Sweet Springs,True,43,Warsaw,True,41,False,False
+2026-11-24,Lift for Life Academy Charter,True,63,Washington,True,58,False,False
 2026-11-24,Camdenton,True,60,Waynesville,True,67,False,False
 2026-11-24,Lutheran St. Charles,True,40,Westminster Christian Academy,True,77,False,False
 2026-11-24,South Shelby,True,47,Westran,True,81,False,False
 2026-11-24,Warrenton,True,51,Windsor (Imperial),True,70,False,False
 2026-11-24,Dora,True,49,Winona,True,56,False,False
 2026-11-24,John Burroughs,True,,Bishop DuBourg,True,,False,False
-2026-11-24,Mexico,True,,Blair Oaks,True,,False,False
-2026-11-24,West Platte,True,,Cameron,True,,False,False
 2026-11-24,Joplin,True,,Central (Springfield),True,,False,False
 2026-11-24,Winnetonka,True,,Chillicothe,True,,False,False
 2026-11-24,Normandy Collaborative,True,,"East St. Louis Senior(East St Louis , IL)",False,,False,False
@@ -246,36 +247,44 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-24,Parkway North,True,,Parkway South,True,,False,False
 2026-11-24,New Heights Christian,True,,RUSH Sr. Home School,False,,False,False
 2026-11-24,St. Charles,True,,St. Charles West,True,,False,False
-2026-11-24,Lift for Life Academy Charter,True,,Washington,True,,False,False
 2026-11-24,Mercer,True,,Worth County,True,,False,False
 2026-11-25,Fordland,True,51,Blue Eye,True,69,False,False
+2026-11-25,Jennings,True,69,"Collinsville(Collinsville, IL)",False,64,False,False
 2026-11-25,Pleasant Hope,True,69,Hurley,True,63,False,False
 2026-11-25,Liberal,True,44,Purdy,True,53,False,False
 2026-11-25,Wheaton,True,56,Verona,True,28,False,False
 2026-11-25,Ritenour,True,,"Alton(Alton, IL)",False,,False,False
 2026-11-25,Vashon,True,,"Arcadia(Arcadia, CA)",False,,False,False
-2026-11-25,St. Francis Borgia,True,,Bayless,True,,False,False
 2026-11-25,West County,True,,Bunker,True,,False,False
-2026-11-25,Jennings,True,,"Collinsville(Collinsville, IL)",False,,False,False
 2026-11-25,Sumner,True,,"Mascoutah(Mascoutah, IL)",False,,False,False
 2026-11-25,Confluence Prep Academy Charter,True,,Owensville,True,,False,False
+2026-11-26,Ritenour,True,,"Alton(Alton, IL)",False,,False,False
+2026-11-26,Vashon,True,,"Arcadia(Arcadia, CA)",False,,False,False
+2026-11-26,West County,True,,Bunker,True,,False,False
+2026-11-26,Sumner,True,,"Mascoutah(Mascoutah, IL)",False,,False,False
+2026-11-26,Confluence Prep Academy Charter,True,,Owensville,True,,False,False
+2026-11-27,South Iron,True,73,Arcadia Valley,True,42,False,False
+2026-11-27,St. Francis Borgia,True,80,Bayless,True,54,False,False
+2026-11-27,West County,True,45,Bunker,True,54,False,False
+2026-11-27,Cuba,True,32,Central (New Madrid County),True,64,False,False
+2026-11-27,Lutheran North,True,68,Charleston,True,54,False,False
+2026-11-27,Eminence,True,87,Clarkton,True,74,False,False
+2026-11-27,Van Buren,True,57,Holcomb,True,59,False,False
+2026-11-27,Jennings,True,64,"Mascoutah(Mascoutah, IL)",False,69,False,False
+2026-11-27,Scott City,True,62,"West Memphis(West Memphis, AR)",False,56,False,False
 2026-11-27,Sumner,True,,"Alton High(Alton, IL)",False,,False,False
-2026-11-27,South Iron,True,,Arcadia Valley,True,,False,False
-2026-11-27,West County,True,,Bunker,True,,False,False
-2026-11-27,Cuba,True,,Central (New Madrid County),True,,False,False
-2026-11-27,Lutheran North,True,,Charleston,True,,False,False
-2026-11-27,Eminence,True,,Clarkton,True,,False,False
 2026-11-27,Vashon,True,,"East Central(Tulsa, OK)",False,,False,False
 2026-11-27,Summersville,True,,Greenville,True,,False,False
-2026-11-27,Jennings,True,,"Mascoutah(Mascoutah, IL)",False,,False,False
 2026-11-27,Ritenour,True,,"O'Fallon(O'Fallon , IL)",False,,False,False
 2026-11-27,Doniphan,True,,"Pocahontas(Pocahontas, AR)",False,,False,False
 2026-11-27,McCluer,True,,"Quincy Notre Dame(Quincy, IL)",False,,False,False
-2026-11-27,Scott City,True,,"West Memphis(West Memphis, AR)",False,,False,False
 2026-11-28,East Carter,True,,Alton,True,,False,False
 2026-11-28,Mansfield,True,,Bernie,True,,False,False
+2026-11-28,South Iron,True,,Bunker,True,,False,False
 2026-11-28,Stockton,True,,Butler,True,,False,False
+2026-11-28,Van Buren,True,,Campbell,True,,False,False
 2026-11-28,Neelyville,True,,Charleston,True,,False,False
+2026-11-28,Ellington,True,,Clearwater,True,,False,False
 2026-11-28,Sumner,True,,"Collinsville(Collinsville, IL)",False,,False,False
 2026-11-28,Lutheran North,True,,Cuba,True,,False,False
 2026-11-28,Washington,True,,Ft. Zumwalt West,True,,False,False
@@ -288,6 +297,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-28,Gateway,True,,"Qunciy Notre Dame(Qunicy, IL)",False,,False,False
 2026-11-28,Woodland,True,,South Pemiscot,True,,False,False
 2026-11-28,Pacific,True,,Union,True,,False,False
+2026-11-28,Central (New Madrid County),True,,"Union City(Union City, TN)",False,,False,False
 2026-11-30,Oran,True,,Advance,True,,False,False
 2026-11-30,Mehlville,True,,Affton,True,,False,False
 2026-11-30,Pleasant Hope,True,,Ash Grove,True,,False,False
@@ -356,6 +366,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-12-01,McKinley Classical Leadership,True,,"Carbondale(Carbondale, IL)",False,,False,False
 2026-12-01,"Belleville East(Belleville, IL)",False,,Cardinal Ritter,True,,False,False
 2026-12-01,Richmond,True,,Carrollton,True,,False,False
+2026-12-01,Marionville,True,,Cassville,True,,False,False
 2026-12-01,Park Hill South,True,,Central (St. Joseph),True,,False,False
 2026-12-01,Branson,True,,Chadwick,True,,False,False
 2026-12-01,"NEACHE(Jonesboro, AR)",False,,Cooter,True,,False,False
@@ -450,7 +461,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-12-02,Christian Brothers College,True,,Confluence Prep Academy Charter,True,,False,False
 2026-12-02,Osceola,True,,Crest Ridge,True,,False,False
 2026-12-02,Fredericktown,True,,Farmington,True,,False,False
-2026-12-02,Liberty North,True,,Fort Osage,True,,False,False
 2026-12-02,Lutheran South,True,,Fox,True,,False,False
 2026-12-02,Battle,True,,Francis Howell Central,True,,False,False
 2026-12-02,Jackson,True,,Hazelwood West,True,,False,False
@@ -876,6 +886,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-12-10,Gideon,True,,"KIPP(Blytheville, AR)",False,,False,False
 2026-12-10,Eminence,True,,Koshkonong,True,,False,False
 2026-12-10,La Monte,True,,Lakeland,True,,False,False
+2026-12-10,Greenwood,True,,Liberty,True,,False,False
 2026-12-10,Tuscumbia,True,,Lighthouse Sr.,False,,False,False
 2026-12-10,La Plata,True,,Macon County with Bucklin,True,,False,False
 2026-12-10,Lockwood,True,,McAuley Catholic,True,,False,False

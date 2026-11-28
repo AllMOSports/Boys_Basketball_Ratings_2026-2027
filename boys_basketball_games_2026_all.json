@@ -628,6 +628,17 @@
   },
   {
     "date": "2026-11-20",
+    "team1": "Humansville",
+    "team1_classified": true,
+    "score1": 53,
+    "team2": "School of the Ozarks",
+    "team2_classified": true,
+    "score2": 49,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-20",
     "team1": "Midway",
     "team1_classified": true,
     "score1": 51,
@@ -842,17 +853,6 @@
     "score1": null,
     "team2": "Ridgefield Christian(Jonesboro, AR)",
     "team2_classified": false,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-20",
-    "team1": "Humansville",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "School of the Ozarks",
-    "team2_classified": true,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -1596,6 +1596,17 @@
   },
   {
     "date": "2026-11-24",
+    "team1": "Mexico",
+    "team1_classified": true,
+    "score1": 58,
+    "team2": "Blair Oaks",
+    "team2_classified": true,
+    "score2": 61,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-24",
     "team1": "Macon",
     "team1_classified": true,
     "score1": 58,
@@ -1624,6 +1635,17 @@
     "team2": "Cabool",
     "team2_classified": true,
     "score2": 51,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-24",
+    "team1": "West Platte",
+    "team1_classified": true,
+    "score1": 55,
+    "team2": "Cameron",
+    "team2_classified": true,
+    "score2": 63,
     "forfeit": false,
     "overtime": false
   },
@@ -2366,6 +2388,17 @@
   },
   {
     "date": "2026-11-24",
+    "team1": "Lift for Life Academy Charter",
+    "team1_classified": true,
+    "score1": 63,
+    "team2": "Washington",
+    "team2_classified": true,
+    "score2": 58,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-24",
     "team1": "Camdenton",
     "team1_classified": true,
     "score1": 60,
@@ -2425,28 +2458,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Bishop DuBourg",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-24",
-    "team1": "Mexico",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Blair Oaks",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-24",
-    "team1": "West Platte",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Cameron",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -2718,17 +2729,6 @@
   },
   {
     "date": "2026-11-24",
-    "team1": "Lift for Life Academy Charter",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Washington",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-24",
     "team1": "Mercer",
     "team1_classified": true,
     "score1": null,
@@ -2746,6 +2746,17 @@
     "team2": "Blue Eye",
     "team2_classified": true,
     "score2": 69,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-25",
+    "team1": "Jennings",
+    "team1_classified": true,
+    "score1": 69,
+    "team2": "Collinsville(Collinsville, IL)",
+    "team2_classified": false,
+    "score2": 64,
     "forfeit": false,
     "overtime": false
   },
@@ -2806,33 +2817,11 @@
   },
   {
     "date": "2026-11-25",
-    "team1": "St. Francis Borgia",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Bayless",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-25",
     "team1": "West County",
     "team1_classified": true,
     "score1": null,
     "team2": "Bunker",
     "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-25",
-    "team1": "Jennings",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Collinsville(Collinsville, IL)",
-    "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -2860,29 +2849,29 @@
     "overtime": false
   },
   {
-    "date": "2026-11-27",
-    "team1": "Sumner",
+    "date": "2026-11-26",
+    "team1": "Ritenour",
     "team1_classified": true,
     "score1": null,
-    "team2": "Alton High(Alton, IL)",
+    "team2": "Alton(Alton, IL)",
     "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
   },
   {
-    "date": "2026-11-27",
-    "team1": "South Iron",
+    "date": "2026-11-26",
+    "team1": "Vashon",
     "team1_classified": true,
     "score1": null,
-    "team2": "Arcadia Valley",
-    "team2_classified": true,
+    "team2": "Arcadia(Arcadia, CA)",
+    "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
   },
   {
-    "date": "2026-11-27",
+    "date": "2026-11-26",
     "team1": "West County",
     "team1_classified": true,
     "score1": null,
@@ -2893,13 +2882,68 @@
     "overtime": false
   },
   {
+    "date": "2026-11-26",
+    "team1": "Sumner",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Mascoutah(Mascoutah, IL)",
+    "team2_classified": false,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-26",
+    "team1": "Confluence Prep Academy Charter",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Owensville",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-27",
+    "team1": "South Iron",
+    "team1_classified": true,
+    "score1": 73,
+    "team2": "Arcadia Valley",
+    "team2_classified": true,
+    "score2": 42,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-27",
+    "team1": "St. Francis Borgia",
+    "team1_classified": true,
+    "score1": 80,
+    "team2": "Bayless",
+    "team2_classified": true,
+    "score2": 54,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-27",
+    "team1": "West County",
+    "team1_classified": true,
+    "score1": 45,
+    "team2": "Bunker",
+    "team2_classified": true,
+    "score2": 54,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
     "date": "2026-11-27",
     "team1": "Cuba",
     "team1_classified": true,
-    "score1": null,
+    "score1": 32,
     "team2": "Central (New Madrid County)",
     "team2_classified": true,
-    "score2": null,
+    "score2": 64,
     "forfeit": false,
     "overtime": false
   },
@@ -2907,10 +2951,10 @@
     "date": "2026-11-27",
     "team1": "Lutheran North",
     "team1_classified": true,
-    "score1": null,
+    "score1": 68,
     "team2": "Charleston",
     "team2_classified": true,
-    "score2": null,
+    "score2": 54,
     "forfeit": false,
     "overtime": false
   },
@@ -2918,9 +2962,53 @@
     "date": "2026-11-27",
     "team1": "Eminence",
     "team1_classified": true,
-    "score1": null,
+    "score1": 87,
     "team2": "Clarkton",
     "team2_classified": true,
+    "score2": 74,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-27",
+    "team1": "Van Buren",
+    "team1_classified": true,
+    "score1": 57,
+    "team2": "Holcomb",
+    "team2_classified": true,
+    "score2": 59,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-27",
+    "team1": "Jennings",
+    "team1_classified": true,
+    "score1": 64,
+    "team2": "Mascoutah(Mascoutah, IL)",
+    "team2_classified": false,
+    "score2": 69,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-27",
+    "team1": "Scott City",
+    "team1_classified": true,
+    "score1": 62,
+    "team2": "West Memphis(West Memphis, AR)",
+    "team2_classified": false,
+    "score2": 56,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-27",
+    "team1": "Sumner",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Alton High(Alton, IL)",
+    "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -2943,17 +3031,6 @@
     "score1": null,
     "team2": "Greenville",
     "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-27",
-    "team1": "Jennings",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Mascoutah(Mascoutah, IL)",
-    "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -2992,17 +3069,6 @@
     "overtime": false
   },
   {
-    "date": "2026-11-27",
-    "team1": "Scott City",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "West Memphis(West Memphis, AR)",
-    "team2_classified": false,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
     "date": "2026-11-28",
     "team1": "East Carter",
     "team1_classified": true,
@@ -3026,6 +3092,17 @@
   },
   {
     "date": "2026-11-28",
+    "team1": "South Iron",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Bunker",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-28",
     "team1": "Stockton",
     "team1_classified": true,
     "score1": null,
@@ -3037,10 +3114,32 @@
   },
   {
     "date": "2026-11-28",
+    "team1": "Van Buren",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Campbell",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-28",
     "team1": "Neelyville",
     "team1_classified": true,
     "score1": null,
     "team2": "Charleston",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-28",
+    "team1": "Ellington",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Clearwater",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -3174,6 +3273,17 @@
     "score1": null,
     "team2": "Union",
     "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-28",
+    "team1": "Central (New Madrid County)",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Union City(Union City, TN)",
+    "team2_classified": false,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -3921,6 +4031,17 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Carrollton",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-01",
+    "team1": "Marionville",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Cassville",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -4955,17 +5076,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Farmington",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-12-02",
-    "team1": "Liberty North",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Fort Osage",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -9641,6 +9751,17 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Lakeland",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-12-10",
+    "team1": "Greenwood",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Liberty",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
